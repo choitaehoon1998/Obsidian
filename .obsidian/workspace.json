@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.company-recurit/1.당근마켓/당근마켓 채용 공고 분석.md",
+                "file": "1.java/book/2.effective-java/summary.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.company-recurit/1.당근마켓/당근마켓 채용 공고 분석.md",
+                "file": "1.java/book/2.effective-java/summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.company-recurit/1.당근마켓/당근마켓 채용 공고 분석.md",
+                "file": "1.java/book/2.effective-java/summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.company-recurit/1.당근마켓/당근마켓 채용 공고 분석.md"
+                "file": "1.java/book/2.effective-java/summary.md"
               }
             }
           }
@@ -163,9 +163,16 @@
   },
   "active": "1661aec9a75a5e0e",
   "lastOpenFiles": [
+    "1.java/book/summary.md",
+    "summary.md",
+    "2.oop/lecture/2.Pratical-Testing",
+    "2.oop/lecture/1.readable-code",
+    "2.oop/lecture/무제 파일.md",
+    "2.oop/lecture",
+    "1.java/book/2.effective-java/summary.md",
+    "0.company-recurit/1.당근마켓/당근마켓 채용 공고 분석.md",
     "3.computer-science/2.network/1.REST/summary.md",
     "5.devops/2.k8s/summary.md",
-    "0.company-recurit/1.당근마켓/당근마켓 채용 공고 분석.md",
     "10.data-pipeline/summary.md",
     "5.devops/3.aws/summary.md",
     "5.devops/1.docker/summary.md",
@@ -187,14 +194,8 @@
     "5.devops/3.aws",
     "5.devops/2.k8s",
     "5.devops/1.docker",
-    "8.system-design/3.massive-data-processing-database-design",
-    "8.system-design/2.massive-data-processing-application-architecture",
-    "8.system-design/1.Designing-Data-Intensive-Applicatiion",
     "무제 파일.md",
     "1.java/lecture/summary.md",
-    "1.java/book/summary.md",
-    "1.java/book/2.effective-java/summary.md",
-    "1.java/book/1.god-of-java(자바의신)/summary.md",
-    "summary.md"
+    "1.java/book/1.god-of-java(자바의신)/summary.md"
   ]
 }
