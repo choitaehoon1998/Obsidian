@@ -13,27 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.devops/1.docker/summary.md",
+                "file": "1.java/book/2.effective-java/1. 객체 생성과 파괴/1.생성자 대신 정적 팩터리 메서드를 고려하라(아이템1).md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1661aec9a75a5e0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.java/book/2.effective-java/summary.md",
-                "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.java/book/2.effective-java/summary.md",
+                "file": "1.java/book/2.effective-java/1. 객체 생성과 파괴/1.생성자 대신 정적 팩터리 메서드를 고려하라(아이템1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.java/book/2.effective-java/summary.md",
+                "file": "1.java/book/2.effective-java/1. 객체 생성과 파괴/1.생성자 대신 정적 팩터리 메서드를 고려하라(아이템1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.java/book/2.effective-java/summary.md"
+                "file": "1.java/book/2.effective-java/1. 객체 생성과 파괴/1.생성자 대신 정적 팩터리 메서드를 고려하라(아이템1).md"
               }
             }
           }
@@ -161,41 +147,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1661aec9a75a5e0e",
+  "active": "8ee08d828a409e70",
   "lastOpenFiles": [
-    "1.java/book/summary.md",
-    "summary.md",
+    "1.java/book/2.effective-java/effective-java-summary.md",
+    "1.java/book/1.god-of-java(자바의신)/god-of-java-summary.md",
+    "10.data-pipeline/data-pipeline-summary.md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/1.생성자 대신 정적 팩터리 메서드를 고려하라(아이템1).md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/객체생성과파괴-summary.md",
+    "whole-summary.md",
+    "1.java/book/java- book-summary.md",
+    "1.java/java-summary.md",
+    "3.computer-science/1.database/database-summary.md",
+    "6.architecture/1.msa/msa-summary.md",
+    "8.system-design/3.massive-data-processing-database-design/massive-data-processing-database-design-summary.md",
+    "8.system-design/2.massive-data-processing-application-architecture/massive-data-processing-application-architecture-summary.md",
+    "8.system-design/1.Designing-Data-Intensive-Applicatiion/Designing-Data-Intensive-Application-summary.md",
+    "7.front-end/1.react/react-summary.md",
+    "6.architecture/3.clean-architecture/clean-architecture-summary.md",
+    "6.architecture/2.layered-architecture/layered-architecture-summary.md",
+    "5.devops/3.aws/aws-summary.md",
+    "5.devops/2.k8s/k8s-summary.md",
+    "5.devops/1.docker/docker-summary.md",
+    "4.spring/spring-summary.md",
+    "3.computer-science/2.network/2.gRPC/gRPC-summary.md",
+    "3.computer-science/2.network/1.REST/REST-summary.md",
+    "1.java/book/3. design pattern",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴",
     "2.oop/lecture/2.Pratical-Testing",
     "2.oop/lecture/1.readable-code",
     "2.oop/lecture/무제 파일.md",
     "2.oop/lecture",
-    "1.java/book/2.effective-java/summary.md",
     "0.company-recurit/1.당근마켓/당근마켓 채용 공고 분석.md",
-    "3.computer-science/2.network/1.REST/summary.md",
-    "5.devops/2.k8s/summary.md",
-    "10.data-pipeline/summary.md",
-    "5.devops/3.aws/summary.md",
-    "5.devops/1.docker/summary.md",
-    "7.front-end/1.react/summary.md",
     "7.front-end/1.react",
-    "8.system-design/3.massive-data-processing-database-design/summary.md",
-    "8.system-design/1.Designing-Data-Intensive-Applicatiion/summary.md",
-    "8.system-design/2.massive-data-processing-application-architecture/summary.md",
-    "6.architecture/3.clean-architecture/summary.md",
-    "6.architecture/2.layered-architecture/summary.md",
-    "6.architecture/1.msa/summary.md",
-    "3.computer-science/2.network/2.gRPC/summary.md",
-    "3.computer-science/1.database/summary.md",
-    "4.spring/summary.md",
-    "1.java/summary.md",
     "0.company-recurit/1.당근마켓",
     "0.company-recurit",
     "10.data-pipeline",
     "5.devops/3.aws",
-    "5.devops/2.k8s",
-    "5.devops/1.docker",
     "무제 파일.md",
-    "1.java/lecture/summary.md",
-    "1.java/book/1.god-of-java(자바의신)/summary.md"
+    "1.java/lecture/summary.md"
   ]
 }
