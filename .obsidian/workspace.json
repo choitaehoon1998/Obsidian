@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e5e4209c2a8aea85",
+        "id": "13963d05458e33b5",
         "type": "tabs",
         "children": [
           {
-            "id": "8ee08d828a409e70",
+            "id": "cba8feb016da7ad4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.java/book/2.effective-java/1. 객체 생성과 파괴/1.생성자 대신 정적 팩터리 메서드를 고려하라(아이템1).md",
+                "file": "1.java/book/3. design pattern/팩토리 메서드 (factory method).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.java/book/2.effective-java/1. 객체 생성과 파괴/1.생성자 대신 정적 팩터리 메서드를 고려하라(아이템1).md",
+                "file": "1.java/book/3. design pattern/팩토리 메서드 (factory method).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.java/book/2.effective-java/1. 객체 생성과 파괴/1.생성자 대신 정적 팩터리 메서드를 고려하라(아이템1).md",
+                "file": "1.java/book/3. design pattern/팩토리 메서드 (factory method).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.java/book/2.effective-java/1. 객체 생성과 파괴/1.생성자 대신 정적 팩터리 메서드를 고려하라(아이템1).md"
+                "file": "1.java/book/3. design pattern/팩토리 메서드 (factory method).md"
               }
             }
           }
@@ -147,43 +147,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ee08d828a409e70",
+  "active": "cba8feb016da7ad4",
   "lastOpenFiles": [
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/1.생성자 대신 정적 팩터리 메서드를 고려하라(아이템1).md",
+    "1.java/book/3. design pattern/팩토리 메서드 (factory method).md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/객체생성과파괴-summary.md",
+    "1.java/book/3. design pattern/design patten summary.md",
+    "1.java/book/3. design pattern/bridge pattern.md",
+    "1.java/book/3. design pattern/Flyweight pattern.md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/9. try-finally보다는 try-with-resource를 사용하라 (아이템 9).md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/8. finalizer와 cleaner 사용을 피하라 (아이템 8).md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/7. 다 쓴 객체 참조를 해제하라 (아이템 7).md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/6. 불필요한 객체 생성을 피하라 (아이템 6).md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/2. 생성자에 매개변수가 많다면 빌더를 고려하라 (아이템 2).md",
+    "reflection.md",
+    "1.java/book/2.effective-java/3. 클래스와 인터페이스/3. 변경 가능성을 최소화하라 (아이템 17).md",
+    "1.java/book/2.effective-java/3. 클래스와 인터페이스/4. 상속보다는 컴포지션을 사용하라 (아이템 18).md",
+    "아이템 18.md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/4. 인스턴스를 막으려거든 private 생성자를 사용하라 (아이템 4).md",
     "1.java/book/2.effective-java/effective-java-summary.md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 (아이템 5).md",
+    "1.java/book/2.effective-java/8. 일반적인 프로그래밍 원칙/3. 라이브러리를 익히고 사용하라 (아이템 59).md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/3. private 생성자나 열거 타입으로 싱글턴을 보증하라 (아이템 3).md",
+    "1.java/book/2.effective-java/5. 열거타입과 애너테이션/1. int 상수 대신 열거 타입을 사용하라 (아이템 34).md",
+    "1.java/book/2.effective-java/8. 일반적인 프로그래밍 원칙",
+    "1.java/book/2.effective-java/5. 열거타입과 애너테이션/무제 폴더",
+    "1.java/book/2.effective-java/5. 열거타입과 애너테이션",
+    "1.java/book/2.effective-java/3. 클래스와 인터페이스",
+    "whole-summary.md",
+    "무제 파일.md",
     "1.java/book/1.god-of-java(자바의신)/god-of-java-summary.md",
     "10.data-pipeline/data-pipeline-summary.md",
-    "1.java/book/2.effective-java/1. 객체 생성과 파괴/1.생성자 대신 정적 팩터리 메서드를 고려하라(아이템1).md",
-    "1.java/book/2.effective-java/1. 객체 생성과 파괴/객체생성과파괴-summary.md",
-    "whole-summary.md",
     "1.java/book/java- book-summary.md",
-    "1.java/java-summary.md",
-    "3.computer-science/1.database/database-summary.md",
-    "6.architecture/1.msa/msa-summary.md",
-    "8.system-design/3.massive-data-processing-database-design/massive-data-processing-database-design-summary.md",
-    "8.system-design/2.massive-data-processing-application-architecture/massive-data-processing-application-architecture-summary.md",
-    "8.system-design/1.Designing-Data-Intensive-Applicatiion/Designing-Data-Intensive-Application-summary.md",
-    "7.front-end/1.react/react-summary.md",
-    "6.architecture/3.clean-architecture/clean-architecture-summary.md",
-    "6.architecture/2.layered-architecture/layered-architecture-summary.md",
-    "5.devops/3.aws/aws-summary.md",
-    "5.devops/2.k8s/k8s-summary.md",
-    "5.devops/1.docker/docker-summary.md",
-    "4.spring/spring-summary.md",
-    "3.computer-science/2.network/2.gRPC/gRPC-summary.md",
-    "3.computer-science/2.network/1.REST/REST-summary.md",
     "1.java/book/3. design pattern",
     "1.java/book/2.effective-java/1. 객체 생성과 파괴",
     "2.oop/lecture/2.Pratical-Testing",
     "2.oop/lecture/1.readable-code",
-    "2.oop/lecture/무제 파일.md",
     "2.oop/lecture",
-    "0.company-recurit/1.당근마켓/당근마켓 채용 공고 분석.md",
-    "7.front-end/1.react",
-    "0.company-recurit/1.당근마켓",
-    "0.company-recurit",
-    "10.data-pipeline",
-    "5.devops/3.aws",
-    "무제 파일.md",
-    "1.java/lecture/summary.md"
+    "7.front-end/1.react"
   ]
 }
