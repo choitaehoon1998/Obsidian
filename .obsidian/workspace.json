@@ -11,8 +11,12 @@
             "id": "006d7962ec4b07c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.java/book/3. design pattern/가교(bridge).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.java/book/3. design pattern/가교(bridge).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.java/book/3. design pattern/가교(bridge).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.java/book/3. design pattern/가교(bridge).md"
+              }
             }
           }
         ]
@@ -141,19 +149,22 @@
   },
   "active": "006d7962ec4b07c0",
   "lastOpenFiles": [
-    "1.java/book/2.effective-java/1. 객체 생성과 파괴/객체생성과파괴-summary.md",
-    "1.java/book/3. design pattern/싱글턴.md",
-    "1.java/book/2.effective-java/1. 객체 생성과 파괴/2. 생성자에 매개변수가 많다면 빌더를 고려하라 (아이템 2).md",
-    "1.java/book/2.effective-java/1. 객체 생성과 파괴/1.생성자 대신 정적 팩터리 메서드를 고려하라(아이템1).md",
+    "1.java/book/3. design pattern/플라이급(Flyweight).md",
+    "1.java/book/3. design pattern/design patten summary.md",
+    "1.java/book/3. design pattern/팩토리 메서드 (factory method).md",
+    "1.java/book/3. design pattern/가교(bridge).md",
+    "1.java/book/3. design pattern/적응자(adapter).md",
+    "1.java/book/3. design pattern/단일체(singleton).md",
     "1.java/book/2.effective-java/1. 객체 생성과 파괴/9. try-finally보다는 try-with-resource를 사용하라 (아이템 9).md",
     "1.java/book/2.effective-java/1. 객체 생성과 파괴/8. finalizer와 cleaner 사용을 피하라 (아이템 8).md",
-    "1.java/book/3. design pattern/팩토리 메서드 (factory method).md",
-    "1.java/book/2.effective-java/1. 객체 생성과 파괴/7. 다 쓴 객체 참조를 해제하라 (아이템 7).md",
     "1.java/book/2.effective-java/1. 객체 생성과 파괴/5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 (아이템 5).md",
     "1.java/book/2.effective-java/1. 객체 생성과 파괴/6. 불필요한 객체 생성을 피하라 (아이템 6).md",
-    "1.java/book/2.effective-java/1. 객체 생성과 파괴/3. private 생성자나 열거 타입으로 싱글턴을 보증하라 (아이템 3).md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/7. 다 쓴 객체 참조를 해제하라 (아이템 7).md",
     "1.java/book/2.effective-java/1. 객체 생성과 파괴/4. 인스턴스를 막으려거든 private 생성자를 사용하라 (아이템 4).md",
-    "1.java/book/3. design pattern/adapter.md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/3. private 생성자나 열거 타입으로 싱글턴을 보증하라 (아이템 3).md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/2. 생성자에 매개변수가 많다면 빌더를 고려하라 (아이템 2).md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/1.생성자 대신 정적 팩터리 메서드를 고려하라(아이템1).md",
+    "1.java/book/2.effective-java/1. 객체 생성과 파괴/객체생성과파괴-summary.md",
     "1.java/book/2.effective-java/effective-java-summary.md",
     "1.java/book/2.effective-java/6. 람다와 스트림/3. 표준 함수형 인터페이스를 사용하라 (아이템 44).md",
     "1.java/book/2.effective-java/6. 람다와 스트림/2. 람다보다는 메서드 참조를 사용하라 (아이템 43).md",
@@ -161,9 +172,6 @@
     "1.java/book/2.effective-java/4. 제네릭/5. 이왕이면 제네릭 메서드로 만들라 (아이템 30).md",
     "1.java/book/2.effective-java/4. 제네릭",
     "Pasted image 20240930131000.png",
-    "1.java/book/3. design pattern/design patten summary.md",
-    "1.java/book/3. design pattern/bridge pattern.md",
-    "1.java/book/3. design pattern/Flyweight pattern.md",
     "reflection.md",
     "1.java/book/2.effective-java/3. 클래스와 인터페이스/3. 변경 가능성을 최소화하라 (아이템 17).md",
     "1.java/book/2.effective-java/3. 클래스와 인터페이스/4. 상속보다는 컴포지션을 사용하라 (아이템 18).md",
